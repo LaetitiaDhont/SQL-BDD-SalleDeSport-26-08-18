@@ -1,0 +1,2 @@
+DELETE FROM clients
+WHERE age>75;
